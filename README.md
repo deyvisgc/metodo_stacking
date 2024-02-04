@@ -9,6 +9,8 @@
 # Analisis de sentimiento aplicando el metodo Stacking Emsamble
 
 ### Bach. Garcia Cercado Deyvis Ronald, Lima, Peru  ([No dude en conectarse en LinkedIn aquí](https://www.linkedin.com/in/deyvis-garcia-a503ba163/))
+### Dataset de twitter original ([Descargar](https://docs.google.com/spreadsheets/d/1NyT8xlWFc2_fNGb6ZP9j1_kWWlnQNx2r/edit?usp=sharing&ouid=112508430608456629540&rtpof=true&sd=true))
+### Dataset de twitter limpio ([Descargar](https://docs.google.com/spreadsheets/d/1P7i02Ex0-h-18eJFf8lws0LEEWfzH2Um/edit?usp=drive_link&ouid=112508430608456629540&rtpof=true&sd=true))
 
 ![ml-ds](https://raw.githubusercontent.com/tirthajyoti/Machine-Learning-with-Python/master/Images/ML-DS-cycle-1.png)
 
